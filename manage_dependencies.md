@@ -1,7 +1,7 @@
 ## Virtual environments
 create new virual environment in a folder using the command ```python venv -m <env_name>```
 
-To activate the environment in cmd, first cd to the Scripts folder of the virtual environment directory and then run ```actiate.bat```
+To activate the environment in cmd, first cd to the Scripts folder of the virtual environment directory and then run ```activate.bat```
 
 To deactivate the environmnet run ```deactivate```
 
